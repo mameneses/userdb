@@ -1,4 +1,3 @@
-userdb
-======
+== User API ===
 
-User API DB
+this is a database of users for api consumption
